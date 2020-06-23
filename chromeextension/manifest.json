@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Mark As Read Button",
+  "version": "0.1",
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "description": "Description to Mark As Read Button",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://mail.ukr.net/*"
+      ],
+      "css": ["mark-as-read.css"],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "background": {
+    "persistent": true,
+    "scripts": [
+      "background.js"
+    ]
+  }
+}
