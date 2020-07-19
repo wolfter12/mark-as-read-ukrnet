@@ -1,0 +1,1 @@
+// TODO: Add enable/disable functionality via popup.html and popup.js

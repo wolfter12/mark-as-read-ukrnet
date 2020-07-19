@@ -6,7 +6,7 @@
     "activeTab",
     "tabs"
   ],
-  "description": "Description to Mark As Read Button",
+  "description": "Add the \"Позначити як прочитані\"(Mark as read) button to the top and bottom menus.",
   "content_scripts": [
     {
       "matches": [
