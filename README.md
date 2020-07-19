@@ -12,4 +12,4 @@ Simple chrome extension, which adds the "Позначити як прочита�
 3. Click on Load Unpacked and select your Unzip folder. Note: You need to select the folder in which the manifest file exists.
 4. The extension will be installed now.
 
-![Chrome extension](./example 2.jpg)
+![Chrome extension](./example_2.jpg)
