@@ -1,0 +1,30 @@
+{
+  "name": "mark-as-read-ukrnet",
+  "version": "1.0.0",
+  "description": "A small browser extension for mail.ukr.net which adds \"Mark as read\" button to the menu bar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfter12/mark-as-read-ukrnet.git"
+  },
+  "keywords": [
+    "ukrnet",
+    "mail-ukr-net",
+    "freemail",
+    "mark-as-read"
+  ],
+  "author": "wolfter12@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolfter12/mark-as-read-ukrnet/issues"
+  },
+  "homepage": "https://github.com/wolfter12/mark-as-read-ukrnet#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
