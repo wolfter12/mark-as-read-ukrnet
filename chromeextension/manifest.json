@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Mark As Read Button",
   "version": "0.1",
-  "description": "Add the \"Позначити як прочитані\" (Mark as read) button to the top and bottom menus.",
+  "description": "Невелике розширення для mail.ukr.net, яке додає кнопку \"Позначити як прочитане\" в панель меню.",
   "content_scripts": [
     {
       "matches": [
