@@ -11,6 +11,7 @@ The "Mark as read" button appears in the top and bottom menus on the main page m
 
 ### Download
 
+- [Chrome extension](https://chrome.google.com/webstore/detail/mark-as-read-button/cfgnblgmmdlkbpnopmcjhbgmckleobfo)  
 - [Mozilla add-on](https://addons.mozilla.org/uk/firefox/addon/mark-as-read-button/)
 
 ### Screenshots
